@@ -42,5 +42,6 @@ GA(Google Analytics)란 웹사이트와 모바일 앱의 사용자 행동 및 �
 <img src="https://github.com/user-attachments/assets/9510a01c-e704-45eb-9801-377bac46d16d" alt="image2" width="400"/>
 
 ### iv. DAU 성과
-<img width="576" alt="image" src="https://github.com/user-attachments/assets/91c3414e-59cd-4fa2-9bb6-e80094e7780a" />
+<img width="576" alt="image" src="https://github.com/user-attachments/assets/bd9c08db-84ad-45e0-91f2-d1dd63c0042c" />
+
 
