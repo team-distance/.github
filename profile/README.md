@@ -4,6 +4,38 @@
 
 ### 💻 개발 및 운영기간
 2024.03.01 ~ 2024.12.31
+<table>
+  <thead>
+    <tr>
+      <th>학교</th>
+      <th>기간</th>
+      <th>일수</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>순천향대</td>
+      <td>5/2 ~ 5/10</td>
+      <td>9일</td>
+    </tr>
+    <tr>
+      <td>경희대, 서울여대</td>
+      <td>5/21 ~ 5/27</td>
+      <td>7일</td>
+    </tr>
+    <tr>
+      <td>동국대</td>
+      <td>5/28 ~ 5/31</td>
+      <td>4일</td>
+    </tr>
+    <tr>
+      <td>전남대</td>
+      <td>11/5 ~ 11/7</td>
+      <td>3일</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ### 💪 멤버 구성
 [김나영(디자인)](https://github.com/Nayoungsi)  
@@ -34,6 +66,7 @@ GA(Google Analytics)란 웹사이트와 모바일 앱의 사용자 행동 및 �
 ### i. 사용자 증가 및 참여도
 <ul>
   <li>축제 기간 동안 사용자가 집중적으로 증가하였음.</li>
+  <li>특히 5월 순천향대학교와, 11월 전남대학교 축제 기간에 사용량이 가장 활발했음.</li>
 </ul>
 <img src="https://github.com/user-attachments/assets/199fe7e8-7b55-406a-bacc-ed6e45499bf0" alt="image1" width="400"/> 
 <img src="https://github.com/user-attachments/assets/51769fd4-7e24-4d66-8d67-a0868d4576db" alt="image2" width="400"/>
