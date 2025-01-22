@@ -50,12 +50,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii. 조회 수<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iii. 채널별 성과<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iv. DAU<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**b. 사용자 피드백**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i. 에브리타임<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii. 카카오톡 문의<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iii. 구글 설문조사<br><br>
-**2. 화면 구성**
-
+**2. 화면 구성** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;a. IA구조도<br>
+&nbsp;&nbsp;&nbsp;&nbsp;b. Figma<br>
 ## 1. 성과 및 결과
 ⭐️ 요약 : 우리 프로젝트는 대학교 축제 기간 동안 랜덤 채팅 서비스를 제공하여 누적 가입자수 1600명과 누적 조회수 100만건의 이벤트를 기록했습니다.
   
@@ -96,4 +93,9 @@ GA(Google Analytics)란 웹사이트와 모바일 앱의 사용자 행동 및 �
   <li>이에 축제 페이지를 새롭게 리뉴얼하여 위치 기반으로 내 주변 다른 학교 축제 정보도 검색이 가능하도록 만듦. </li>
 </ul>
 <img width="576" alt="image" src="https://github.com/user-attachments/assets/bd9c08db-84ad-45e0-91f2-d1dd63c0042c" />
+<br/>
+
+## 2. 화면 구성
+### a. IA구조도
+<img width="1429" alt="image" src="https://github.com/user-attachments/assets/a658d1bd-0ff7-489e-a644-4de8760ef269" />
 <br/>
