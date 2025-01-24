@@ -99,3 +99,6 @@ GA(Google Analytics)란 웹사이트와 모바일 앱의 사용자 행동 및 �
 ### a. IA구조도
 <img width="1429" alt="image" src="https://github.com/user-attachments/assets/a658d1bd-0ff7-489e-a644-4de8760ef269" />
 <br/>
+
+### b. Figma
+[Distance's Figma](https://www.figma.com/design/TJJWOb4HvCK1typXOq4OHB/%F0%9F%92%95-distance?node-id=1696-6773&t=MWAMSrnx3LEiW4w4-1)  
